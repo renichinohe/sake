@@ -1,0 +1,13 @@
+.DS_Store
+directories
+dist
+Thumbs.db
+.idea
+out/
+.gradle/
+build.gradle
+settings
+gradlew
+gradlew.bat
+settings.gradle
+gradle
